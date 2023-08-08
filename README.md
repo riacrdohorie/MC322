@@ -1,2 +1,3 @@
 # MC322
-$git init
+
+$git add <lab01>
